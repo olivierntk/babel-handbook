@@ -364,7 +364,7 @@ You can give Babel instructions on what to do by installing **plugins** or
 
 ## <a id="toc-babelrc"></a>`.babelrc`
 
-Before we start telling Babel what to do. We need to create a configuration
+Before we start telling Babel what to do, we need to create a configuration
 file. All you need to do is create a `.babelrc` file at the root of your
 project. Start off with it like this:
 
